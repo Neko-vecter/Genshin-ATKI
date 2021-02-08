@@ -13,7 +13,7 @@ This calculate just compare different weapon and artifacts. Different character 
 
    Use git to download
 
-   ```powershell
+   ```
    git clone https://github.com/Neko-vecter/Genshin-ATKI.git
    ```
 
@@ -27,7 +27,7 @@ This calculate just compare different weapon and artifacts. Different character 
 
 3. run ATKI.py file use
 
-   ```powershell
+   ```
    python ATKI.py
    ```
 
