@@ -8,7 +8,7 @@ class ATKI_lib():
         self.CTD = 0 # Crit DAM (In percentage)
         self.BNS = 0 # Bonus (like Cryo bonus)
 
-    # 理想伤害=面板总攻击力*技能倍率*（1+物理/元素伤害加成百分比）*（1+暴击伤害百分比 * 暴击率）
+    # Damage = ATK*(1+bonus percentage)*(1+ Crit Damage * Crit RATE)
     # Calculate Ideal Damage
     def cal_ATKI(self):
         print("Calculate ATKI")
