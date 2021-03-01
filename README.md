@@ -2,12 +2,18 @@
 Genshin Impact ATKI Calculator 
 
 Powered By Neko.vecter
+Thanks Birdo to contribution
+</br></br>
 
-### Genshin impact ATKI (Attack Index)
+### **Genshin impact ATKI (Attack Index)**
 
-This calculate just compare different weapon and artifacts. Different character will have different value. Also, make sure you have same Level, Constellation, and Talents. Different Level, Constellation, and Talents can't compare.
+This program/calculator allows the user to calculate and compare the attack output of different weapons and artifacts for different characters. All you need is to input the ATK, CTR, CTD, and Bonus, this program will automatically give you the ATKI (Attack Index) of your combination of weapon and artifacts. We are putting aside the variables of constellations and Talent Level. The purpose of this program is to give you an accurate comparison between the attack output of the different artifact or weapon combinations. 
+</br></br>
+### **What Is ATKI (Attack Index)**
 
-#### How to use it?
+The ATKI is basically a index that shows you the total attack output of any given combination. This index can help you determine accurately if the set of artifacts you have are really optimal.
+</br></br>
+### **How to use it?**
 
 1. Download Genshin ATKI calculator
 
