@@ -2,6 +2,7 @@
 Genshin Impact ATKI Calculator 
 
 Powered By Neko.vecter
+
 Thanks Birdo to contribution
 </br></br>
 
